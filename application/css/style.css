@@ -1,0 +1,21 @@
+.error_customer_register,
+.error_service_search,
+.firm_not_exists,
+.service_not_exists,
+.error_firm_search,
+.incorrect_login,
+.city_no_results,
+.firm_incorrect_data,
+.service_incorrect_data,
+.customers_not_used,
+.no_earnings,
+.earnings_error {
+    color: red;
+}
+
+.success_customer_register,
+.firm_success_register,
+.service_success_register,
+#search_results_earnings {
+    color: green;
+}

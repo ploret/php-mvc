@@ -1,0 +1,9 @@
+<div><a href="/firm/addfirm">1. Add firm</a></div>
+<div><a href="/service/addservice">2. Add service</a></div>
+<div><a href="/customer/register">3. Customer register</a></div>
+<div><a href="/service/searchservice">4. Service search (use firm name)</a></div>
+<div><a href="/firm/searchfirm">5. Firm search (use service name)</a></div>
+<div><a href="/firm/searchbycity">6. Firm and service search (use city)</a></div>
+<div><a href="/service/customersusedservice">7. Customers that used this service (use service name )</a></div>
+<div><a href="/firm/customersusedfirm">8. Customers that used this firm (use firm name)</a></div>
+<div><a href="/billing/earnings">9. Our site earnings (select date period)</a></div>
